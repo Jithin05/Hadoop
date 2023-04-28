@@ -1,2 +1,3 @@
 # Hadoop
-Basic commands of Linux
+For Study purpose
+
